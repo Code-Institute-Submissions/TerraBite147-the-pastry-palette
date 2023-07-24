@@ -64,6 +64,23 @@ li,
     background-size: cover;
     z-index: -1;
 }
+#title {
+    position: absolute;
+    top: 130px;
+    width: 100%;
+    text-align: center;
+    color: #fff;
+    text-shadow: 4px 4px 4px rgba(0, 0, 0, 1);
+}
+#title h1 {
+    font-family: "Rock Salt", cursive;
+    font-size: 50px;
+}
+#title h2 {
+    position: relative;
+    font-size: 25px;
+    top: -15px;
+}
 
 /* Aside Left */
 .aside1 {
