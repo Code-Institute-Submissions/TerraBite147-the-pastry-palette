@@ -29,7 +29,6 @@
     align-items: center;
 }
 
-li,
 .links a {
     font-weight: 400;
     font-size: 24px;
@@ -53,7 +52,7 @@ li,
 /* main */
 .main {
     text-align: left;
-    background-color: lightblue;
+    background-color: whitesmoke;
     font-size: 24px;
 }
 
@@ -124,14 +123,31 @@ li,
     color: #fff;
 }
 
+/* About Us */
+.heading{
+    width: 100%;
+    background-color: #362d29;
+    font-size: 30px;
+    color: #dadada;
+}
+.about-us{
+
+}
+
+.p-container{
+    max-width: 800px;
+    margin: auto;
+}
 
 /* Survey Form*/
-#into {
+.form-container {
     position: relative;
-    margin: auto;
     max-width: 900px;
     background-color: #dadada;
     border-radius: 20px;
+    margin: 10px 0;
+    margin-left: auto;
+    margin-right: auto;
 }
 #into h1 {
     text-align: center;
@@ -146,6 +162,11 @@ li,
     font-size: 15px;
     padding-bottom: 15px;
 }
+.survey-section{
+    margin-left: 20px;
+    padding-top: 10px;
+}
+
 
 /* Aside Left */
 .aside1 {
