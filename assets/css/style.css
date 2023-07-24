@@ -1,0 +1,50 @@
+@import url("https://fonts.googleapis.com/css2?family=Rock+Salt&display=swap");
+@import url(https://fonts.googleapis.com/css?family=Lato);
+
+* {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    border-style: none;
+    font-family: Lato, sans-serif;
+}
+
+/* Flex contianer */
+.wrapper {
+    display: flex;
+    flex-flow: row wrap;
+    text-align: center;
+}
+
+.wrapper>* {
+    flex: 1 100%;
+}
+
+/* Header */
+.header {
+    background: #362d29;
+    height: 60px;
+}
+
+/* main */
+.main {
+    text-align: left;
+    background-color: lightblue;
+    height: 300px;
+    font-size: 24px;
+}
+
+.aside1 {
+    background-color: green;
+
+}
+
+.aside2 {
+    background-color: pink;
+
+}
+
+.footer{
+    background-color: deepskyblue;
+    height: 80px;
+}
