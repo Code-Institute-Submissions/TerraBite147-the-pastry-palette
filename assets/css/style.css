@@ -54,8 +54,15 @@ li,
 .main {
     text-align: left;
     background-color: lightblue;
-    height: 300px;
     font-size: 24px;
+}
+
+#bg-image {
+    background: url(../images/elena-leya-a5Jou3EnZxE-unsplash.webp) no-repeat center center;
+    height: 630px;
+    width: 100%;
+    background-size: cover;
+    z-index: -1;
 }
 
 /* Aside Left */
