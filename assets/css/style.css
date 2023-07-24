@@ -124,17 +124,18 @@
 }
 
 /* About Us */
-.heading{
+.heading {
     width: 100%;
     background-color: #362d29;
     font-size: 30px;
     color: #dadada;
 }
-.about-us{
 
+.about-us p{
+    font-size: large;
 }
 
-.p-container{
+.p-container {
     max-width: 800px;
     margin: auto;
 }
@@ -149,6 +150,14 @@
     margin-left: auto;
     margin-right: auto;
 }
+#survey-form button {
+    position: relative;
+    left: 25px;
+    width: 100px;
+    height:  25px;
+    margin-bottom: 20px;
+    font-size: large;
+}
 #into h1 {
     text-align: center;
     padding-bottom: 15px;
@@ -158,11 +167,13 @@
     margin: 0 20px;
     font-size: smaller;
 }
-#into #tc{
+
+#into #tc {
     font-size: 15px;
     padding-bottom: 15px;
 }
-.survey-section{
+
+.survey-section {
     margin-left: 20px;
     padding-top: 10px;
 }
