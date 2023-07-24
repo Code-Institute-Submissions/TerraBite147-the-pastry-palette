@@ -90,7 +90,7 @@ li,
 
 /* Media Queries */
 
-@media all and (min-width: 800px) {
+/* @media all and (min-width: 800px) {
     .main {
         flex: 3;
     }
@@ -110,7 +110,7 @@ li,
     .footer {
         order: 4;
     }
-}
+} */
 
 @media all and (min-width: 600px) {
     .aside {
