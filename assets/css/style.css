@@ -94,6 +94,7 @@ li,
     text-shadow: 4px 4px 4px rgba(0, 0, 0, 1);
 
 }
+
 #title-survey h1 {
     font-family: "Rock Salt", cursive;
     font-size: 50px;
@@ -110,7 +111,6 @@ li,
     width: 100%;
     text-align: center;
     top: 620px;
-
 }
 
 #award img {
@@ -122,6 +122,29 @@ li,
     font-size: 80%;
     font-weight: 100;
     color: #fff;
+}
+
+
+/* Survey Form*/
+#into {
+    position: relative;
+    margin: auto;
+    max-width: 900px;
+    background-color: #dadada;
+    border-radius: 20px;
+}
+#into h1 {
+    text-align: center;
+    padding-bottom: 15px;
+}
+
+#into p {
+    margin: 0 20px;
+    font-size: smaller;
+}
+#into #tc{
+    font-size: 15px;
+    padding-bottom: 15px;
 }
 
 /* Aside Left */

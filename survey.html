@@ -22,14 +22,87 @@
             </nav>
         </header>
         <article class="main">
+            <div id="title-survey">
+                <h1>The Pastry Palette</h1>
+                <h2>A Palette of Flavors, A World of Delights!</h2>
+            </div>
+
             <div id="into">
-                <div id="title-survey">
-                    <h1>The Pastry Palette</h1>
-                    <h2>A Palette of Flavors, A World of Delights!</h2>
-                  </div>
                 <H1>Welcome to The Pastry Palette Customer Survey!</H1>
+                <p>We are excited to announce that we're expanding our services to offer online orders! To make sure we
+                    provide the best experience for you, we would love to hear your thoughts and preferences.
+                </p>
+                <br>
+                <p>This survey will only take a few minutes of your time, and your feedback will be instrumental in
+                    shaping our new online ordering system. Plus, as a token of our gratitude, we will enter your name
+                    into a raffle for a chance to win a €50 Palette Pastry gift card!</p>
+                <br>
+                <p id="tc">(*Required fields are marked with an asterisk)</p>
 
             </div>
+            <form id="survey-form">
+                <!-- name -->
+                <div class="survey-section">
+                    <label for="name" id="name-label" class="required">Enter your name: </label>
+                    <br>
+                    <input type="text" name="name" id="name" class="single-line" placeholder="John Doe" required>
+                </div>
+
+                <!-- email -->
+                <div class="survey-section">
+                    <label for="email" id="email-label" class="required">Enter your email: </label>
+                    <br>
+                    <input type="email" name="email" id="email" class="single-line" placeholder="johndoe@example.com"
+                        required>
+                </div>
+
+                <!-- dropdown -->
+                <div class="survey-section" id="first-four">
+                    <label for="location" class="required">Select the bakery closest to you: </label>
+                    <select id="dropdown" name="location" required>
+                        <option disabled selected value> -- select a city -- </option>
+                        <option value="city">Cork City</option>
+                        <option value="north">Mallow</option>
+                        <option value="west">Skibbereen</option>
+                        <option value="east">Youghal</option>
+
+                    </select>
+                </div>
+
+                <!-- radio -->
+                <div class="survey-section">
+                    <label for="radio" class="required">How likely are you to order food online: </label>
+
+                    <div class="radio-option">
+                        <input type="radio" id="low" name="rating" value="1" required>
+                        <label for="poor">(1) Not Likely</label>
+                    </div>
+
+                    <div class="radio-option">
+                        <input type="radio" id="lower-average" name="rating" value="2">
+                        <label for="dewey">(2) Might consider</label>
+                    </div>
+
+                    <div class="radio-option">
+                        <input type="radio" id="average" name="rating" value="3">
+                        <label for="louie">(3) Open to trying</label>
+                    </div>
+
+                    <div class="radio-option">
+                        <input type="radio" id="good" name="rating" value="4">
+                        <label for="louie">(4) I'm excited to order</label>
+                    </div>
+                </div>
+                <!-- textarea -->
+                <div class="survey-section">
+                    <label for="textarea">Enter any additional feedback here: </label>
+                    <br>
+                    <textarea id="textarea" name="textarea" rows="5" cols="33"></textarea>
+                </div>
+
+                <button class="center" type="submit" id="submit" form="survey-form" value="submit"><strong>Submit
+                        >></strong></button>
+            </form>
         </article>
         <footer class="footer">
             <ul class="links social">
