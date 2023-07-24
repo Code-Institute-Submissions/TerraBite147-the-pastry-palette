@@ -24,7 +24,31 @@
 .header {
     background: #362d29;
     height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
+
+li,
+a {
+    font-weight: 400;
+    font-size: 24px;
+    color: #dadada;
+}
+
+.nav-links {
+    list-style: none;
+}
+
+.nav-links li {
+    display: inline-block;
+    padding: 0px 20px;
+}
+
+.nav-links a:hover {
+    color: #fff;
+}
+
 
 /* main */
 .main {
@@ -33,19 +57,22 @@
     height: 300px;
     font-size: 24px;
 }
+
 /* Aside Left */
 .aside1 {
     background-color: green;
 
 }
+
 /* Aside right */
 .aside2 {
     background-color: pink;
 
 }
+
 /* Footer */
-.footer{
-    background-color: deepskyblue;
+.footer {
+    background: #362d29;
     height: 80px;
 }
 
@@ -74,7 +101,7 @@
     }
 }
 
-@media all and (min-width: 600px){
+@media all and (min-width: 600px) {
     .aside {
         flex: 1;
     }
