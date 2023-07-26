@@ -178,18 +178,43 @@
     padding-top: 10px;
 }
 
+/* Menu */
 
-/* Aside Left */
-.aside1 {
-    background-color: green;
+.menu-wrapper {
+    display: flex;
+    text-align: center;
+    margin: 3%;
+    justify-content: center;
+    gap: 30px;
+    flex-direction: row;
 
 }
-
-/* Aside right */
-.aside2 {
-    background-color: pink;
-
+.menu-wrapper img {
+    width: 250px;
 }
+.sub-menu{
+    max-width: 490px;
+    background-color: antiquewhite;
+    border-radius: 10px;
+    flex: 1;
+    
+    
+}
+.flex-column{
+    padding: 15px 0px;
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    align-items: center;
+    gap: 15px;
+    position: relative;
+}
+.flex-column p{
+    width: 70%;
+}
+
+
+
 
 /* Footer */
 .footer {
@@ -237,4 +262,18 @@
     .aside {
         flex: 1;
     }
+}
+
+.circle {
+    background-color: brown;
+    height: 150px;
+    width: 150px;
+    min-width: 150px;
+    border-radius: 50%;
+    margin-bottom: 10px; /* Add some spacing between the circle and the paragraph */
+}
+
+.para {
+    text-align: center; /* Optional: Center the paragraph text */
+    width: 80%; /* Optional: Set a width for the paragraph container */
 }
