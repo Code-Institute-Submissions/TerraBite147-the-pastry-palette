@@ -251,10 +251,14 @@
 
 .about-us-section{
     display: flex;
-    width: 80%;
-    background-color: antiquewhite;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 3%;
 }
 
+.width400 p{
+    width: 400px;
+}
 
 
 /* Footer */
@@ -341,6 +345,9 @@
         max-width: 400px;
     }
     .inner-container {
+        flex-direction: column;
+    }
+    .about-us-section {
         flex-direction: column;
     }
 }
