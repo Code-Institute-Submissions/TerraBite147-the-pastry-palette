@@ -23,95 +23,98 @@
                 </ul>
             </nav>
         </header>
-        <article class="main">
-            <div id="title-survey">
-                <h1>The Pastry Palette</h1>
-                <h2>A Palette of Flavors, A World of Delights!</h2>
-            </div>
+        <main>
+            <article class="main">
+                <div id="title-survey">
+                    <h1>The Pastry Palette</h1>
+                    <h2>A Palette of Flavors, A World of Delights!</h2>
+                </div>
 
-            <div class="form-container" id="into">
-                <h1>Welcome to The Pastry Palette Customer Survey!</h1>
-                <p>
-                    We are excited to announce that we're expanding our services to
-                    offer online orders! To make sure we provide the best experience for
-                    you, we would love to hear your thoughts and preferences.
-                </p>
-                <br />
-                <p>
-                    This survey will only take a few minutes of your time, and your
-                    feedback will be instrumental in shaping our new online ordering
-                    system. Plus, as a token of our gratitude, we will enter your name
-                    into a raffle for a chance to win a €50 Palette Pastry gift card!
-                </p>
-                <br />
-                <p id="tc">(*Required fields are marked with an asterisk)</p>
-            </div>
-            <form method="POST" action="https://formdump.codeinstitute.net/" class="form-container" id="survey-form">
-                <!-- name -->
-                <div class="survey-section">
-                    <label for="name" id="name-label" class="required">Enter your name:
-                    </label>
+                <div class="form-container" id="into">
+                    <h1>Welcome to The Pastry Palette Customer Survey!</h1>
+                    <p>
+                        We are excited to announce that we're expanding our services to
+                        offer online orders! To make sure we provide the best experience for
+                        you, we would love to hear your thoughts and preferences.
+                    </p>
                     <br />
-                    <input type="text" name="name" id="name" class="single-line" placeholder="John Doe" required />
-                </div>
-
-                <!-- email -->
-                <div class="survey-section">
-                    <label for="email" id="email-label" class="required">Enter your email:
-                    </label>
+                    <p>
+                        This survey will only take a few minutes of your time, and your
+                        feedback will be instrumental in shaping our new online ordering
+                        system. Plus, as a token of our gratitude, we will enter your name
+                        into a raffle for a chance to win a €50 Palette Pastry gift card!
+                    </p>
                     <br />
-                    <input type="email" name="email" id="email" class="single-line" placeholder="johndoe@example.com"
-                        required />
+                    <p id="tc">(*Required fields are marked with an asterisk)</p>
                 </div>
-
-                <!-- dropdown -->
-                <div class="survey-section" id="first-four">
-                    <label for="location" class="required">Select the bakery closest to you:
-                    </label>
-                    <select id="dropdown" name="location" required>
-                        <option disabled selected value>-- select a city --</option>
-                        <option value="city">Cork City</option>
-                        <option value="north">Mallow</option>
-                        <option value="west">Skibbereen</option>
-                        <option value="east">Youghal</option>
-                    </select>
-                </div>
-
-                <!-- radio -->
-                <div class="survey-section">
-                    <label for="radio" class="required">How frequently do you order food online:
-                    </label>
-
-                    <div class="radio-option">
-                        <input type="radio" id="mweekly" name="rating" value="mw" required />
-                        <label for="poor">Multiple times a week</label>
-                    </div>
-                    <div class="radio-option">
-                        <input type="radio" id="weekly" name="rating" value="1w" required />
-                        <label for="poor">Once a week</label>
+                <form method="POST" action="https://formdump.codeinstitute.net/" class="form-container"
+                    id="survey-form">
+                    <!-- name -->
+                    <div class="survey-section">
+                        <label for="name" id="name-label" class="required">Enter your name:
+                        </label>
+                        <br />
+                        <input type="text" name="name" id="name" class="single-line" placeholder="John Doe" required />
                     </div>
 
-                    <div class="radio-option">
-                        <input type="radio" id="monthly" name="rating" value="1m" required />
-                        <label for="poor">Once a month</label>
+                    <!-- email -->
+                    <div class="survey-section">
+                        <label for="email" id="email-label" class="required">Enter your email:
+                        </label>
+                        <br />
+                        <input type="email" name="email" id="email" class="single-line"
+                            placeholder="johndoe@example.com" required />
+                    </div>
+
+                    <!-- dropdown -->
+                    <div class="survey-section" id="first-four">
+                        <label for="location" class="required">Select the bakery closest to you:
+                        </label>
+                        <select id="dropdown" name="location" required>
+                            <option disabled selected value>-- select a city --</option>
+                            <option value="city">Cork City</option>
+                            <option value="north">Mallow</option>
+                            <option value="west">Skibbereen</option>
+                            <option value="east">Youghal</option>
+                        </select>
+                    </div>
+
+                    <!-- radio -->
+                    <div class="survey-section">
+                        <label for="radio" class="required">How frequently do you order food online:
+                        </label>
+
                         <div class="radio-option">
-                            <input type="radio" id="never" name="rating" value="0" required />
-                            <label for="poor">Never </label>
+                            <input type="radio" id="mweekly" name="rating" value="mw" required />
+                            <label for="poor">Multiple times a week</label>
+                        </div>
+                        <div class="radio-option">
+                            <input type="radio" id="weekly" name="rating" value="1w" required />
+                            <label for="poor">Once a week</label>
+                        </div>
+
+                        <div class="radio-option">
+                            <input type="radio" id="monthly" name="rating" value="1m" required />
+                            <label for="poor">Once a month</label>
+                            <div class="radio-option">
+                                <input type="radio" id="never" name="rating" value="0" required />
+                                <label for="poor">Never </label>
+                            </div>
                         </div>
                     </div>
-                </div>
-                <!-- textarea -->
-                <div class="survey-section">
-                    <label for="textarea">Enter any additional feedback here: </label>
-                    <br />
-                    <textarea id="textarea" name="textarea" rows="5" cols="33"></textarea>
-                </div>
+                    <!-- textarea -->
+                    <div class="survey-section">
+                        <label for="textarea">Enter any additional feedback here: </label>
+                        <br />
+                        <textarea id="textarea" name="textarea" rows="5" cols="33"></textarea>
+                    </div>
 
-                <button type="submit" id="submit" form="survey-form" value="submit">
-                    <strong>Submit >></strong>
-                </button>
-            </form>
-        </article>
+                    <button type="submit" id="submit" form="survey-form" value="submit">
+                        <strong>Submit >></strong>
+                    </button>
+                </form>
+            </article>
+        </main>
         <footer class="footer">
             <ul class="links social">
                 <li>
