@@ -343,7 +343,7 @@
 
 }
 
-@media all and (max-width: 420px) {
+@media all and (max-width: 770px) {
     .sub-menu {
         max-width: 400px;
     }
