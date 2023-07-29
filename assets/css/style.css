@@ -347,11 +347,18 @@
     .sub-menu {
         max-width: 400px;
     }
+    .width400 p{
+        width: 350px;
+    }
     .inner-container {
         flex-direction: column;
     }
     .about-us-section {
         flex-direction: column;
+        align-items: center;
+        margin: 0;
+        gap: 5px;
+        margin-bottom: 5px;
     }
 }
  /* 1200 950 800 */
