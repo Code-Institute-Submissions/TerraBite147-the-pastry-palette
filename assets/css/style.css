@@ -6,8 +6,8 @@
     margin: 0;
     text-decoration: none;
     border-style: none;
+    box-sizing: bored-box;
     font-family: Lato, sans-serif;
-    
 }
 
 /* Flex contianer */
@@ -50,7 +50,6 @@
     color: #fff;
 }
 
-
 /* main */
 .main {
     text-align: left;
@@ -85,24 +84,27 @@
     font-size: 25px;
     top: -15px;
 }
-.survey-link{
+
+.survey-link {
     position: absolute;
     top: 10px;
     right: -20px;
 
 }
+
 .box {
     position: relative;
-    background-color:  rgba(250, 235, 215, 0.884);
+    background-color: rgba(250, 235, 215, 0.884);
     border: 2px solid black;
     border-radius: 20px;
     width: 300px;
-    height: 150px;    
+    height: 150px;
     text-align: center;
     z-index: 0;
-    
-    }
-.flex{
+
+}
+
+.flex {
     color: black;
     position: relative;
     width: 100%;
@@ -111,20 +113,20 @@
     flex-direction: column;
     align-items: start;
     justify-content: center;
-    
+
 }
+
 .flex h2 {
     width: 280px;
     padding-top: 20px;
     font-size: 25px;
-    
+
 }
+
 .flex p {
     width: 280px;
     font-size: 25px;
 }
-
-
 
 #title-survey {
     position: relative;
@@ -175,14 +177,16 @@
     margin-left: auto;
     margin-right: auto;
 }
+
 #survey-form button {
     position: relative;
     left: 25px;
     width: 100px;
-    height:  25px;
+    height: 25px;
     margin-bottom: 20px;
     font-size: large;
 }
+
 #into h1 {
     text-align: center;
     padding-bottom: 15px;
@@ -204,7 +208,6 @@
 }
 
 /* Menu */
-
 .menu-wrapper {
     display: flex;
     text-align: center;
@@ -214,18 +217,19 @@
     flex-direction: row;
 
 }
+
 .menu-wrapper img {
     width: 250px;
 }
-.sub-menu{
+
+.sub-menu {
     max-width: 490px;
     background-color: rgb(250, 235, 215);
     border-radius: 10px;
     flex: 1;
-    
-    
 }
-.flex-column{
+
+.flex-column {
     padding: 15px 0px;
     display: flex;
     flex-direction: column;
@@ -234,13 +238,20 @@
     gap: 15px;
     position: relative;
 }
+
 .inner-container {
     display: flex;
     flex-direction: column;
     align-items: center;
 }
-.inner-container p{
+
+.inner-container p {
     width: 80%;
+}
+
+.inner-container img {
+    height: 165px;
+    width: 250px;
 }
 
 /* About Us */
@@ -251,20 +262,18 @@
     color: #dadada;
 }
 
-.about-us-section{
+.about-us-section {
     display: flex;
     align-items: center;
     justify-content: space-evenly;
     margin: 3%;
 }
 
-.width400 p{
+.width400 p {
     width: 400px;
 }
 
-
 /* Footer */
-
 .footer {
     background: #362d29;
     height: 80px;
@@ -278,68 +287,47 @@
 .social a {
     font-size: 40px;
 }
-
-
-
-
 /* Media Queries */
-
-/* @media all and (min-width: 800px) {
-    .main {
-        flex: 3;
-    }
-
-    .aside1 {
-        order: 1;
-    }
-
-    .aside2 {
-        order: 2;
-    }
-
-    .main {
-        order: 2;
-    }
-
-    .footer {
-        order: 4;
-    }
-}  */
-
 @media all and (max-width: 1100px) {
     .menu-wrapper {
         flex-direction: column;
         align-items: center;
     }
+
     .sub-menu {
         max-width: 800px;
     }
+
     .inner-container {
         flex-direction: row;
     }
-    .survey-link{
+
+    .survey-link {
         width: 100%;
         top: 500px;
         right: 0;
         align-items: center;
     }
+
     .box {
         width: 250px;
         height: 100px;
         text-align: center;
         left: 50%;
         transform: translate(-50%);
-        } 
-        .flex h2 {
-            padding: 0;
-            width: 250px;
-            font-size: 25px;
-            
-        }
-        .flex p {
-            width: 250px;
-            font-size: 25px;
-        }
+    }
+
+    .flex h2 {
+        padding: 0;
+        width: 250px;
+        font-size: 25px;
+
+    }
+
+    .flex p {
+        width: 250px;
+        font-size: 25px;
+    }
 
 }
 
@@ -347,12 +335,15 @@
     .sub-menu {
         max-width: 400px;
     }
-    .width400 p{
+
+    .width400 p {
         width: 350px;
     }
+
     .inner-container {
         flex-direction: column;
     }
+
     .about-us-section {
         flex-direction: column;
         align-items: center;
@@ -361,4 +352,3 @@
         margin-bottom: 5px;
     }
 }
- /* 1200 950 800 */
