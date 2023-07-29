@@ -38,9 +38,6 @@ Link to Live site
 - bugs
 
     HTML:
-    code comments
-    aria-labels
-    wrap all content between header/footer in one set of main tags
     all pages should be accessible from your nav bar
     Images:
     names should-be-lower-case-and-kebabed
