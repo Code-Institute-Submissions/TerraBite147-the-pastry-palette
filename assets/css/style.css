@@ -275,8 +275,14 @@ main {
 .about-us-section {
     display: flex;
     align-items: center;
-    justify-content: space-evenly;
+    justify-content: center;
     margin: 3%;
+}
+.map{
+    border: 5px solid #362d29;
+    border-radius: 5px;
+    width: 400;
+    height: 300; 
 }
 
 .width400 p {
