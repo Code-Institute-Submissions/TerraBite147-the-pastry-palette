@@ -138,27 +138,6 @@ main {
     font-size: 25px;
 }
 
-#title-survey {
-    position: relative;
-    top: 0px;
-    width: 100%;
-    text-align: center;
-    color: #fff;
-    text-shadow: 4px 4px 4px rgba(0, 0, 0, 1);
-
-}
-
-#title-survey h1 {
-    font-family: "Rock Salt", cursive;
-    font-size: 50px;
-}
-
-#title-survey h2 {
-    position: relative;
-    font-size: 25px;
-    top: -15px;
-}
-
 #award {
     position: absolute;
     width: 100%;
@@ -178,12 +157,45 @@ main {
 }
 
 /* Survey Form*/
+.survey {
+    text-align: left;
+    background-color: whitesmoke;
+    font-size: 24px;
+    background-color: antiquewhite;
+    padding-bottom: 10px;
+} 
+
+#title-survey {
+    position: relative;
+    top: 0px;
+    width: 100%;
+    padding-top: 65px;
+    text-align: center;
+    color: #fff;
+    text-shadow: 4px 4px 4px rgba(0, 0, 0, 1);
+    background-color: #362d29;
+    background: url(../images/spice-up-your-winter-dessert-with-anise-generated-by-ai.jpg) center center / cover;
+    
+    
+}
+
+#title-survey h1 {
+    font-family: "Rock Salt", cursive;
+    font-size: 50px;
+}
+
+#title-survey h2 {
+    position: relative;
+    font-size: 25px;
+    top: -15px;
+}
+
 .form-container {
     position: relative;
     max-width: 900px;
     background-color: #dadada;
     border-radius: 20px;
-    margin: 10px 0;
+    margin-top: 10px;
     margin-left: auto;
     margin-right: auto;
 }
