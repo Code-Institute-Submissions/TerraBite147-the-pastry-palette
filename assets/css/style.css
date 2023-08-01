@@ -278,9 +278,7 @@ main {
     justify-content: center;
     margin: 3%;
 }
-.about-us-section img {
-    width: 320px;
-}
+
 .google-map{
     border: 5px solid #362d29;
     border-radius: 5px;
@@ -313,6 +311,7 @@ main {
     display: flex;
     justify-content: center;
     list-style: none;
+    width: 100%;
 }
 
 .links-footer li {
@@ -327,7 +326,8 @@ main {
     color: #fff;
 }
 
-.footer p {
+.footer-section p {
+    width: 100%;
     padding-top: 9px;
 }
 
@@ -382,12 +382,29 @@ main {
 }
 
 @media all and (max-width: 770px) {
+    .links-header a {
+        font-weight: 400;
+        font-size: 20px;
+        color: #dadada;
+    }
+    #title h1 {
+        font-size: 40px;
+    }
+    
+    #title h2 {
+        font-size: 20px;
+    }
+
+    .about-us-section img {
+        max-width: 300px;
+        min-width: none;
+    }    
     .sub-menu {
         max-width: 400px;
     }
 
     .width400 p {
-        width: 350px;
+        width: 300px;
     }
 
     .inner-container {
