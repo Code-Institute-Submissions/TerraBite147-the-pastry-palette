@@ -38,7 +38,6 @@ Link to Live site
 - bugs
 
     HTML:
-    all pages should be accessible from your nav bar
     Images:
     names should-be-lower-case-and-kebabed
     CSS:

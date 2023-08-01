@@ -278,11 +278,18 @@ main {
     justify-content: center;
     margin: 3%;
 }
-.map{
+.about-us-section img {
+    width: 320px;
+}
+.google-map{
     border: 5px solid #362d29;
     border-radius: 5px;
-    width: 400;
-    height: 300; 
+    height: 300px;
+}
+
+.google-map iframe {
+    height: 100%;
+    width: 100%;
 }
 
 .width400 p {
@@ -290,7 +297,7 @@ main {
 }
 
 /* Footer */
-.footer {
+.footer-section {
     background: #362d29;
     height: 80px;
     color: #dadada;
