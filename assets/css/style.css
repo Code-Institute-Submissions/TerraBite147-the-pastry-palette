@@ -59,6 +59,13 @@ main {
     color: #fff;
 }
 
+#arrow {
+    position: absolute;
+    left: 50%;
+    top: 350px;
+    width: 200px;
+    transform: translate(-165%);
+}
 
 /* main */
 .main {
