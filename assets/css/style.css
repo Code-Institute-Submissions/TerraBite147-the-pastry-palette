@@ -75,8 +75,7 @@ main {
 }
 
 #bg-image {
-  background: url(../images/hero.webp) no-repeat
-    center center;
+  background: url(../images/hero.webp) no-repeat center center;
   height: 630px;
   width: 100%;
   background-size: cover;
@@ -299,6 +298,12 @@ main {
   align-items: center;
   justify-content: center;
   margin: 3%;
+}
+#about-us-img img {
+  border: 5px solid #362d29;
+  border-radius: 5px;
+  min-width: 300px;
+  max-width: 380px;
 }
 
 .google-map {
