@@ -11,9 +11,10 @@
 }
 html {
   scroll-behavior: smooth;
-  scroll-padding-top: 60px;
+  scroll-padding-top: 70px;
 }
-/* Flex contianer */
+
+/* Flex container */
 .wrapper {
   display: flex;
   flex-flow: row wrap;
@@ -316,7 +317,6 @@ main {
   height: 300px;
   margin: 2%;
 }
-
 
 .google-map iframe {
   height: 100%;
