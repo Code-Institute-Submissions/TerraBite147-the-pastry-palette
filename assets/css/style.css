@@ -270,6 +270,7 @@ main {
     flex-direction: column;
     justify-items: center;
     align-items: center;
+    height: 300px;
     gap: 15px;
     position: relative;
 }

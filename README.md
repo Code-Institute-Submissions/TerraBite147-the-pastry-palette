@@ -56,4 +56,7 @@ Link to Live site
 
 
  https://pixabay.com/photos/ciabatta-bread-baked-baker-food-1589083/ Ciabata
+ https://pixabay.com/photos/macaroons-macro-cookies-dessert-3311851/ Macaroons
+ https://pixabay.com/photos/chocolate-bread-breakfast-croissant-5087206/ Pain Au Chocolat
+ 
  
