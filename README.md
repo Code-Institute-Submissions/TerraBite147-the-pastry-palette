@@ -54,9 +54,21 @@ Link to Live site
 
  ## Credit
 
+### Images
+
+#### Header 
+
+#### Menu
 
  https://pixabay.com/photos/ciabatta-bread-baked-baker-food-1589083/ Ciabata
+
+ https://pixabay.com/photos/french-coarse-country-bread-bread-1613878/ French Coarse
+
+ https://pixabay.com/photos/bread-baker-crafts-food-oven-eat-2667075/ Sourdough
+
  https://pixabay.com/photos/macaroons-macro-cookies-dessert-3311851/ Macaroons
+
  https://pixabay.com/photos/chocolate-bread-breakfast-croissant-5087206/ Pain Au Chocolat
+
  https://pixabay.com/photos/cinnamon-rolls-bread-spiral-baking-1417494/ Cinnamon Rolls
  
