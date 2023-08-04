@@ -296,21 +296,27 @@ main {
 .about-us-section {
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: space-evenly;
   margin: 3%;
 }
 #about-us-img img {
   border: 5px solid #362d29;
   border-radius: 5px;
-  min-width: 300px;
-  max-width: 380px;
+  max-width: 300px;
+  height: 300px;
+  
 }
 
 .google-map {
   border: 5px solid #362d29;
   border-radius: 5px;
+  margin: 2%;
+  min-width: 300px;
+  max-width: 380px;
   height: 300px;
+  margin: 2%;
 }
+
 
 .google-map iframe {
   height: 100%;
