@@ -185,7 +185,7 @@ main {
   color: #fff;
   text-shadow: 4px 4px 4px rgba(0, 0, 0, 1);
   background-color: #362d29;
-  background: url(../images/spice.jpg)
+  background: url(../images/spice.webp)
     center center / cover;
 }
 
@@ -306,7 +306,6 @@ main {
   border-radius: 5px;
   max-width: 300px;
   height: 300px;
-  
 }
 
 .google-map {
