@@ -239,6 +239,10 @@ main {
   padding-top: 10px;
 }
 
+#thanks {
+  text-align: center;
+  padding-bottom: 15px;
+}
 /* Menu */
 .menu-wrapper {
   display: flex;
