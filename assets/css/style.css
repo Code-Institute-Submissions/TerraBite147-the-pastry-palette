@@ -452,3 +452,32 @@ main {
     font-size: 15px;
   }
 }
+
+@media all and (max-width: 480px) {
+  #title h1 {
+    font-size: 30px;
+  }
+  #title h2 {
+    font-size: 18px;
+  }
+  #bg-image {
+    height: 480px;
+  }
+  #arrow {
+    width: 150px;
+    top: 270px;
+    left: 300px;
+  }
+  .survey-link{
+    top: 375px;
+  }
+  #award {
+    top: 435px;
+  }
+  #award img{
+    width: 150px;
+  }
+  #award h3 {
+    font-size: 13px;
+  }
+}
