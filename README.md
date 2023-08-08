@@ -1,8 +1,13 @@
-# Introduction
+# The Pastry Palette
 
-outline purpose and intended audience 
+## Introduction
 
-Link to Live site
+Welcome to The Pastry Palette's official website!
+This virtual space has been carefully crafted with both new and cherished customers of The Pastry Palette in mind. Here, we invite you to explore the world of heavenly aromas, irresistible flavors, and artisanal creations that define our bakery's essence.
+
+Link to site : [The-Pastry-Palette](https://terrabite147.github.io/the-pastry-palette/)
+
+![Am I Responsive](./assets/images/am-i-responsive.webp "Am I Responsive")
 
 ## Contents
 
