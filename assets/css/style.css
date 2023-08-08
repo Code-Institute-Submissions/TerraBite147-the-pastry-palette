@@ -114,7 +114,6 @@ main {
   align-items: center;
   justify-content: space-evenly;
   margin: auto;
-  width: fit-content;
 }
 .grow:hover {
   transform: scale(1.1);
