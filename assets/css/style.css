@@ -185,8 +185,7 @@ main {
   color: #fff;
   text-shadow: 4px 4px 4px rgba(0, 0, 0, 1);
   background-color: #362d29;
-  background: url(../images/spice.webp)
-    center center / cover;
+  background: url(../images/spice.webp) center center / cover;
 }
 
 #title-survey h1 {
@@ -303,7 +302,6 @@ main {
   align-items: center;
   justify-content: center;
   gap: 3%;
-  
 }
 #about-us-img img {
   border: 5px solid #362d29;
@@ -326,7 +324,6 @@ main {
 }
 
 .width400 p {
-  
   width: 310px;
 }
 
@@ -454,10 +451,12 @@ main {
 }
 
 @media all and (max-width: 480px) {
-  #title h1 {
+  #title h1,
+  #title-survey h1 {
     font-size: 30px;
   }
-  #title h2 {
+  #title h2 
+  , #title-survey h2{
     font-size: 18px;
   }
   #bg-image {
@@ -468,13 +467,13 @@ main {
     top: 270px;
     left: 300px;
   }
-  .survey-link{
+  .survey-link {
     top: 375px;
   }
   #award {
     top: 435px;
   }
-  #award img{
+  #award img {
     width: 150px;
   }
   #award h3 {
