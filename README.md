@@ -12,16 +12,32 @@ Link to site : [The-Pastry-Palette](https://terrabite147.github.io/the-pastry-pa
 ## Contents
 
 - [Introduction](#introduction)
-- [Features](#features)
+- [User Experience](#user-experience)
+    - [Intended Users](#intended-users)
 
+
+## User Experience
+### Intended Users
+
+This site is intended for:
+
+- New Customers
+- Existing Customers
+- Customers wanting to see what is available and where to find The Pastry Palette
+
+### Wireframes
+- Desktop
+- Mobile
+
+### design
+- color scheme
 
 ## Features
 - nav
-- lading page
-- menu
-- about us
-    - contact
-- survey
+- Home
+- Menu 
+- about us 
+- Contact and Location
 
 
 ## Testing
@@ -42,28 +58,11 @@ Link to site : [The-Pastry-Palette](https://terrabite147.github.io/the-pastry-pa
 
 - bugs
 
-    HTML:
-    Images:
-    names should-be-lower-case-and-kebabed
-    CSS:
-    site must size down to 320
-    Recommended extra:
-    either a sticky header... or a back-to-top button
-
 ## deployment
 
-## design
- -wire frames
- -colour scheme
-
-
- ## Credit
+## Credit
 
 ### Images
-
-#### Header 
-
-#### Menu
 
  https://pixabay.com/photos/ciabatta-bread-baked-baker-food-1589083/ Ciabata
 
@@ -76,4 +75,6 @@ Link to site : [The-Pastry-Palette](https://terrabite147.github.io/the-pastry-pa
  https://pixabay.com/photos/chocolate-bread-breakfast-croissant-5087206/ Pain Au Chocolat
 
  https://pixabay.com/photos/cinnamon-rolls-bread-spiral-baking-1417494/ Cinnamon Rolls
+
+ ### Code
  
