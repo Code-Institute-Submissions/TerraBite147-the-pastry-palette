@@ -41,15 +41,27 @@ This site is intended for:
 - Customers wanting to see what is available and where to find The Pastry Palette
 
 ### Wireframes
-####
- Desktop - Home
- The below displays the layout of the Header, Hero Section, and Menu Section.
-![Desktop Home](./assets/images/Readme/TPP_1.png "Home Section")
-Desktop - Infomation Section
-The below displays the layout of the About us, Contact Section and Footer.
-![Desktop Menu](./assets/images/Readme/TPP_2.png "Info Section")
 
-- Mobile
+ Desktop - Home :
+ The below displays the layout of the Header, Hero Section, Call to action and Menu Section.
+
+![Desktop Home](./assets/images/Readme/TPP-1.png "Home Section")
+
+Desktop - Infomation Section :
+The below displays the layout of the About us, Contact Section and Footer.
+
+![Desktop Menu](./assets/images/Readme/TPP-2.png "Info Section")
+Desktop - Survey :
+The below displays the layout of the Survey page.
+
+![Desktop Menu](./assets/images/Readme/TPP-S.png "Info Section")
+
+Mobile - Home :
+The below displays the layout of the header, Hero and Call to Action scaled to 320px.
+![Mobile Home](./assets/images/Readme/TPP-mobile-home.png "Home Section")
+Mobile - Home :
+The below displays the layout of the header, Hero and Call to Action.
+![Mobile Home](./assets/images/Readme/TPP-mobile-Menu.png "Menu Section")
 
 ### design
 - Color scheme
