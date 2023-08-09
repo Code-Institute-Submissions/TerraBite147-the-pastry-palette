@@ -14,6 +14,13 @@ Link to site : [The-Pastry-Palette](https://terrabite147.github.io/the-pastry-pa
 - [Introduction](#introduction)
 - [User Experience](#user-experience)
     - [Intended Users](#intended-users)
+    - [Wireframes](#wireframes)
+- [Design](#design)
+- [Features](#features)
+    - [Nav](#nav)
+    - [Home](#home)
+    - [Menu](#menu)
+    - [About Us](#about-us) 
 
 
 ## User Experience
@@ -33,11 +40,11 @@ This site is intended for:
 - color scheme
 
 ## Features
-- nav
-- Home
-- Menu 
-- about us 
-- Contact and Location
+- ### nav
+- ### Home
+- ### Menu 
+- ### about us 
+- ### Contact and Location
 
 
 ## Testing
