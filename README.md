@@ -7,7 +7,7 @@ This virtual space has been carefully crafted with both new and cherished custom
 
 Link to site : [The-Pastry-Palette](https://terrabite147.github.io/the-pastry-palette/)
 
-![Am I Responsive](./assets/images/am-i-responsive.webp "Am I Responsive")
+![Am I Responsive](./assets/images/Readme/am-i-responsive.webp "Am I Responsive")
 
 ## Contents
 
@@ -20,8 +20,16 @@ Link to site : [The-Pastry-Palette](https://terrabite147.github.io/the-pastry-pa
     - [Nav](#nav)
     - [Home](#home)
     - [Menu](#menu)
-    - [About Us](#about-us) 
-
+    - [About Us](#about-us)
+    - [Contact and Location](#contact-and-location)
+    - [Survey](#survey)
+- [Testing](#testing)
+    - [Desktop](#desktop)
+    - [Mobile](#mobile)
+    - [Browsers](#browsers)
+        - [Edge](#edge)
+        - [Chrome](#chrome)
+        - [Firefox](#firefox)
 
 ## User Experience
 ### Intended Users
@@ -33,11 +41,18 @@ This site is intended for:
 - Customers wanting to see what is available and where to find The Pastry Palette
 
 ### Wireframes
-- Desktop
+####
+ Desktop - Home
+ The below displays the layout of the Header, Hero Section, and Menu Section.
+![Desktop Home](./assets/images/Readme/TPP_1.png "Home Section")
+Desktop - Infomation Section
+The below displays the layout of the About us, Contact Section and Footer.
+![Desktop Menu](./assets/images/Readme/TPP_2.png "Info Section")
+
 - Mobile
 
 ### design
-- color scheme
+- Color scheme
 
 ## Features
 - ### nav
@@ -45,25 +60,25 @@ This site is intended for:
 - ### Menu 
 - ### about us 
 - ### Contact and Location
+- ### Survey
 
 
 ## Testing
 
-- desktop 
-- mobile 
+- ### desktop 
+- ### mobile 
 
--browser
- - edge
- - chrome
- - firefox
-
- - test named features
+- ### browsers
+    - #### edge
+    - #### chrome
+    - #### firefox
 
 
-- Lighthouse results 
-- w3c code Validator  
+- ### Lighthouse results 
 
-- bugs
+- ### w3c code Validator  
+
+- ### bugs
 
 ## deployment
 
