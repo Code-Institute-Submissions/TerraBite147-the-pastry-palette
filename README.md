@@ -79,9 +79,25 @@ The below displays the layout of the header, Hero and Call to Action.
 #
 ## Features
 - ### nav
-
+    - The header consists of a fix nav bar intended to stay at top of the screen during navigation. A logo or title was not necessary as the title is visible of the Hero section.
+    - The nav font size will scale down with the screen size to make it clear and responsive at all sizes.
+    - The links will change from #DADADA to #FFFFFF when hovered over to indicate the link.
+![Nav](assets/images/Readme/header.jpg)
 - ### Home
+    - The home section consists of the Hero image, a call to action to click on the survey link and an award given to the bakery.
+    - This section aims to be inviting and show the quality and style of The Pastry Palette.
+    ![Home](assets/images/Readme/Home.jpg)
 - ### Menu 
+    - The menu section is presented to the user to show what type of products The Pastry Palette offers.
+    - The menu section consists of 3 columns each with their own category of product.
+    - Each product has a title and a short description to better showcase the product.
+    ![Menu](assets/images/Readme/menu.jpg)
+
+    - At medium resolutions the menu section will form a column  and the content will form a row.
+    ![Menu Med](assets/images/Readme/medium%20res.jpg)
+
+    - At mobile resolutions the menu section will form a column and the content will also be in a column,
+    
 - ### about us 
 - ### Contact and Location
 - ### Survey
