@@ -31,9 +31,10 @@ Link to site : [The-Pastry-Palette](https://terrabite147.github.io/the-pastry-pa
         - [Chrome](#chrome)
         - [Firefox](#firefox)
 
+#
+
 ## User Experience
 ### Intended Users
-
 This site is intended for:
 
 - New Customers
@@ -59,15 +60,26 @@ The below displays the layout of the Survey page.
 Mobile - Home :
 The below displays the layout of the header, Hero and Call to Action scaled to 320px.
 ![Mobile Home](./assets/images/Readme/TPP-mobile-home.png "Home Section")
+
 Mobile - Home :
 The below displays the layout of the header, Hero and Call to Action.
 ![Mobile Home](./assets/images/Readme/TPP-mobile-Menu.png "Menu Section")
 
-### design
+### Design
+- Font
+    - Rock Salt was used for the title of The Pastry Palette.
+    - Lato was used for the Header, footer and all text.
+    - sans-serif was used as the secondary font for all text.
+
 - Color scheme
 
+    The Color Scheme was based off of the [Hero Image](https://www.freepik.com/premium-photo/horizontal-photo-homemade-chocolate-cookies-dark-table_2654616.htm) 
+    ![Color Scheme](assets/images/Readme/colors.png)
+
+#
 ## Features
 - ### nav
+
 - ### Home
 - ### Menu 
 - ### about us 
@@ -97,6 +109,9 @@ The below displays the layout of the header, Hero and Call to Action.
 ## Credit
 
 ### Images
+
+
+https://www.freepik.com/premium-photo/horizontal-photo-homemade-chocolate-cookies-dark-table_2654616.htm Hero Image
 
  https://pixabay.com/photos/ciabatta-bread-baked-baker-food-1589083/ Ciabata
 
