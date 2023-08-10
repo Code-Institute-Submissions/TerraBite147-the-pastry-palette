@@ -5,9 +5,9 @@
 Welcome to The Pastry Palette's official website!
 This virtual space has been carefully crafted with both new and cherished customers of The Pastry Palette in mind. Here, we invite you to explore the world of heavenly aromas, irresistible flavors, and artisanal creations that define our bakery's essence.
 
-Link to site : [The-Pastry-Palette](https://terrabite147.github.io/the-pastry-palette/)
+Link to site : [The Pastry Palette](https://terrabite147.github.io/the-pastry-palette/)
 
-![Am I Responsive](./assets/images/Readme/am-i-responsive.webp "Am I Responsive")
+![Am I Responsive](./assets/images/Readme/am-i-responsive.webp)
 
 ## Contents
 
@@ -21,7 +21,6 @@ Link to site : [The-Pastry-Palette](https://terrabite147.github.io/the-pastry-pa
     - [Home](#home)
     - [Menu](#menu)
     - [About Us](#about-us)
-    - [Contact and Location](#contact-and-location)
     - [Survey](#survey)
 - [Testing](#testing)
     - [Desktop](#desktop)
@@ -46,24 +45,23 @@ This site is intended for:
  Desktop - Home :
  The below displays the layout of the Header, Hero Section, Call to action and Menu Section.
 
-![Desktop Home](./assets/images/Readme/TPP-1.png "Home Section")
+![Desktop Home](./assets/images/Readme/TPP-1.png)
 
-Desktop - Infomation Section :
+Desktop - Information Section :
 The below displays the layout of the About us, Contact Section and Footer.
 
-![Desktop Menu](./assets/images/Readme/TPP-2.png "Info Section")
-Desktop - Survey :
-The below displays the layout of the Survey page.
+![Desktop Menu](./assets/images/Readme/TPP-2.png)
+Desktop - Survey : The below displays the layout of the Survey page.
 
-![Desktop Menu](./assets/images/Readme/TPP-S.png "Info Section")
+![Desktop Menu](./assets/images/Readme/TPP-S.png)
 
 Mobile - Home :
 The below displays the layout of the header, Hero and Call to Action scaled to 320px.
-![Mobile Home](./assets/images/Readme/TPP-mobile-home.png "Home Section")
+![Mobile Home](./assets/images/Readme/TPP-mobile-home.png)
 
-Mobile - Home :
+Mobile - Menu :
 The below displays the layout of the header, Hero and Call to Action.
-![Mobile Home](./assets/images/Readme/TPP-mobile-Menu.png "Menu Section")
+![Mobile Menu](./assets/images/Readme/TPP-mobile-Menu.png)
 
 ### Design
 - Font
@@ -86,7 +84,7 @@ The below displays the layout of the header, Hero and Call to Action.
 - ### Home
     - The home section consists of the Hero image, a call to action to click on the survey link and an award given to the bakery.
     - This section aims to be inviting and show the quality and style of The Pastry Palette.
-    ![Home](assets/images/Readme/Home.jpg)
+    ![Home](assets/images/Readme/home.jpg)
 - ### Menu 
     - The menu section is presented to the user to show what type of products The Pastry Palette offers.
     - The menu section consists of 3 columns each with their own category of product.
@@ -94,12 +92,19 @@ The below displays the layout of the header, Hero and Call to Action.
     ![Menu](assets/images/Readme/menu.jpg)
 
     - At medium resolutions the menu section will form a column  and the content will form a row.
-    ![Menu Med](assets/images/Readme/medium%20res.jpg)
+    ![Menu Med](assets/images/Readme/medium-res.jpg)
 
-    - At mobile resolutions the menu section will form a column and the content will also be in a column,
-    
+    - At mobile resolutions the menu section will form a column and the content will be in a column.
+    ![Mobile Menu](assets/images/Readme/mobile-res.jpg)
 - ### about us 
-- ### Contact and Location
+    - The about us section is designed to show customers the people behind The Pastry Palette, a brief history of the bakery and the location(s).
+
+    -  The google map has been added to assist with directions and the hours and contact info is shown for enquires.
+    ![About Us](assets/images/Readme/about-us.jpg)
+
+    - The About us section is designed to form a single column at mobile resolutions.
+    ![Mobile About Us](assets/images/Readme/mobile-about-us.jpg)
+
 - ### Survey
 
 
