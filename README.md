@@ -66,20 +66,25 @@ The below displays the layout of the header, Hero and Call to Action.
 ### Design
 - Font
     - Rock Salt was used for the title of The Pastry Palette.
-    - Lato was used for the Header, footer and all text.
+    - git was used for the Header, footer and all text.
     - sans-serif was used as the secondary font for all text.
 
 - Color scheme
 
     The Color Scheme was based off of the [Hero Image](https://www.freepik.com/premium-photo/horizontal-photo-homemade-chocolate-cookies-dark-table_2654616.htm) 
-    ![Color Scheme](assets/images/Readme/colors.png)
+
+    ![#000000](https://placehold.it/150x40/000000/FFFFFF?text=000000)
+    ![#362D29](https://placehold.it/150x40/362D29/ffffff?text=362D29)
+    ![#FAEBD7](https://placehold.it/150x40/FAEBD7/000000?text=E1E2E7)
+    ![#DADADA](https://placehold.it/150x40/DADADA/000000?text=DADADA)
+    ![#F5F5F5](https://placehold.it/150x40/F5F5F5/000000?text=F5F5F5)
 
 #
 ## Features
 - ### nav
     - The header consists of a fix nav bar intended to stay at top of the screen during navigation. A logo or title was not necessary as the title is visible of the Hero section.
     - The nav font size will scale down with the screen size to make it clear and responsive at all sizes.
-    - The links will change from #DADADA to #FFFFFF when hovered over to indicate the link.
+    - The links will change from ![#DADADA](https://placehold.it/150x40/DADADA/000000?text=DADADA) to ![#FAEBD7](https://placehold.it/150x40/ffffff/000000?text=FFFFFF) when hovered over to indicate a clickable link.
 ![Nav](assets/images/Readme/header.jpg)
 - ### Home
     - The home section consists of the Hero image, a call to action to click on the survey link and an award given to the bakery.
@@ -106,6 +111,10 @@ The below displays the layout of the header, Hero and Call to Action.
     ![Mobile About Us](assets/images/Readme/mobile-about-us.jpg)
 
 - ### Survey
+    - The Survey section is designed to gather feed back and potential online ordering feasibility 
+    - The Head and Footer follow the same lay-out as all other pages.
+
+    
 
 
 ## Testing
