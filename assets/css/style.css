@@ -25,6 +25,27 @@ html {
   flex: 1 100%;
 }
 
+.flex {
+  color: black;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  justify-content: center;
+}
+
+.flex h2 {
+  width: 280px;
+  font-size: 25px;
+}
+
+.flex p {
+  width: 280px;
+  font-size: 25px;
+}
+
+
 
 /* Header */
 .header {
@@ -65,7 +86,7 @@ html {
   background-color: whitesmoke;
   font-size: 24px;
 }
-
+/* Hero Image */
 #bg-image {
   background: url(../images/hero.webp) no-repeat center center;
   height: 630px;
@@ -73,7 +94,7 @@ html {
   background-size: cover;
   z-index: -1;
 }
-
+/* The Pastry Palette Title */
 #title {
   position: absolute;
   top: 130px;
@@ -93,7 +114,7 @@ html {
   font-size: 25px;
   top: -15px;
 }
-
+/* Call to Action Link */
 #arrow {
   position: absolute;
   left: 50%;
@@ -127,26 +148,7 @@ html {
   color: #fff;
 }
 
-.flex {
-  color: black;
-  width: 100%;
-  height: 100%;
-  display: flex;
-  flex-direction: column;
-  align-items: start;
-  justify-content: center;
-}
-
-.flex h2 {
-  width: 280px;
-  font-size: 25px;
-}
-
-.flex p {
-  width: 280px;
-  font-size: 25px;
-}
-
+/* Award at the bottom of hero section */
 #award {
   position: absolute;
   width: 100%;
@@ -163,86 +165,6 @@ html {
   font-size: 80%;
   font-weight: 100;
   color: #fff;
-}
-
-/* Survey Form*/
-.survey {
-  text-align: left;
-  background-color: whitesmoke;
-  font-size: 24px;
-  background-color: antiquewhite;
-  padding-bottom: 10px;
-}
-
-#title-survey {
-  position: relative;
-  top: 0px;
-  width: 100%;
-  padding-top: 65px;
-  text-align: center;
-  color: #fff;
-  text-shadow: 4px 4px 4px rgba(0, 0, 0, 1);
-  background-color: #362d29;
-  background: url(../images/spice.webp) center center / cover;
-}
-
-#title-survey h1 {
-  font-family: "Rock Salt", cursive;
-  font-size: 50px;
-}
-
-#title-survey h2 {
-  position: relative;
-  font-size: 25px;
-  top: -15px;
-}
-
-.form-container {
-  position: relative;
-  max-width: 900px;
-  background-color: #dadada;
-  border-radius: 20px;
-  margin-top: 20px;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-#survey-form button {
-  position: relative;
-  left: 25px;
-  width: 100px;
-  height: 25px;
-  margin-bottom: 20px;
-  font-size: large;
-}
-
-#into h1 {
-  text-align: center;
-  padding-bottom: 15px;
-}
-
-#into p {
-  margin: 0 20px;
-  font-size: smaller;
-}
-
-#into #tc {
-  font-size: 15px;
-  padding-bottom: 15px;
-}
-
-
-.survey-section {
-  margin-left: 20px;
-  padding-top: 10px;
-}
-.thank-you {
-  height: calc(100vh - 80px);
-}
-
-#thanks {
-  text-align: center;
-  padding-bottom: 15px;
 }
 
 /* Menu */
@@ -367,6 +289,87 @@ html {
   width: 100%;
   padding-top: 9px;
 }
+
+/* Survey and Thank-you CSS */
+/* Survey Form*/
+.survey {
+  text-align: left;
+  background-color: whitesmoke;
+  font-size: 24px;
+  background-color: antiquewhite;
+  padding-bottom: 10px;
+}
+/* Adjusted The Pastry Palette title for survey page*/
+#title-survey {
+  position: relative;
+  top: 0px;
+  width: 100%;
+  padding-top: 65px;
+  text-align: center;
+  color: #fff;
+  text-shadow: 4px 4px 4px rgba(0, 0, 0, 1);
+  background-color: #362d29;
+  background: url(../images/spice.webp) center center / cover;
+}
+
+#title-survey h1 {
+  font-family: "Rock Salt", cursive;
+  font-size: 50px;
+}
+
+#title-survey h2 {
+  position: relative;
+  font-size: 25px;
+  top: -15px;
+}
+/* container for form */
+.form-container {
+  position: relative;
+  max-width: 900px;
+  background-color: #dadada;
+  border-radius: 20px;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#intro h1 {
+  text-align: center;
+  padding-bottom: 15px;
+}
+
+#intro p {
+  margin: 0 20px;
+  font-size: smaller;
+}
+
+#intro #tc {
+  font-size: 15px;
+  padding-bottom: 15px;
+}
+
+#survey-form button {
+  position: relative;
+  left: 25px;
+  width: 100px;
+  height: 25px;
+  margin-bottom: 20px;
+  font-size: large;
+}
+
+.survey-section {
+  margin-left: 20px;
+  padding-top: 10px;
+}
+.thank-you {
+  height: calc(100vh - 80px);
+}
+
+#thanks {
+  text-align: center;
+  padding-bottom: 15px;
+}
+
 
 /* Media Queries */
 @media all and (max-width: 1100px) {
