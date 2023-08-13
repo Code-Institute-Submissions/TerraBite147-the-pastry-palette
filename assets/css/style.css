@@ -24,9 +24,7 @@ html {
 .wrapper > * {
   flex: 1 100%;
 }
-main {
-  scroll-margin-top: 60px;
-}
+
 
 /* Header */
 .header {
@@ -102,10 +100,6 @@ main {
   top: 350px;
   width: 200px;
   transform: translate(-165%);
-}
-
-.survey {
-  min-height: 92vh;
 }
 
 .survey-link {
@@ -208,7 +202,7 @@ main {
   max-width: 900px;
   background-color: #dadada;
   border-radius: 20px;
-  margin-top: 20vh;
+  margin-top: 20px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -237,15 +231,20 @@ main {
   padding-bottom: 15px;
 }
 
+
 .survey-section {
   margin-left: 20px;
   padding-top: 10px;
+}
+.thank-you {
+  height: calc(100vh - 80px);
 }
 
 #thanks {
   text-align: center;
   padding-bottom: 15px;
 }
+
 /* Menu */
 .menu-wrapper {
   display: flex;
