@@ -105,15 +105,18 @@ The below displays the layout of the header, Hero and Call to Action.
     - The about us section is designed to show customers the people behind The Pastry Palette, a brief history of the bakery and the location(s).
 
     -  The google map has been added to assist with directions and the hours and contact info is shown for enquires.
-    ![About Us](assets/images/Readme/about-us.jpg)
+         ![About Us](assets/images/Readme/about-us.jpg)
 
     - The About us section is designed to form a single column at mobile resolutions.
-    ![Mobile About Us](assets/images/Readme/mobile-about-us.jpg)
+
+        ![Mobile About Us](assets/images/Readme/mobile-about-us.jpg)
 
 - ### Survey
     - The Survey section is designed to gather feed back and potential online ordering feasibility 
     - The Head and Footer follow the same lay-out as all other pages.
+     
 
+    ![Alt text](assets/images/Readme/TPP-S.png)
     
 
 
