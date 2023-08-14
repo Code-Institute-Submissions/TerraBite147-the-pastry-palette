@@ -105,25 +105,48 @@ The below displays the layout of the header, Hero and Call to Action.
     - The about us section is designed to show customers the people behind The Pastry Palette, a brief history of the bakery and the location(s).
 
     -  The google map has been added to assist with directions and the hours and contact info is shown for enquires.
-         ![About Us](assets/images/Readme/about-us.jpg)
+    ![About Us](assets/images/Readme/about-us.jpg)
 
     - The About us section is designed to form a single column at mobile resolutions.
-
-        ![Mobile About Us](assets/images/Readme/mobile-about-us.jpg)
+    ![Mobile About Us](assets/images/Readme/mobile-about-us.jpg)
 
 - ### Survey
     - The Survey section is designed to gather feed back and potential online ordering feasibility 
     - The Head and Footer follow the same lay-out as all other pages.
-     
+    - The Survey consists of a welcome message and a form section.
+        - The form has five input sections
+            - Name and Email : text fields (required)
+            - A bakery location dropdown with 4 options (required)
+            - A radio section containing 4 options (required)
+            - A Feedback text field if the users would like to leave feedback (not required)
+        - A submit button that will direct the user to the thank-you page.
+        ![Survey](assets/images/Readme/survey.jpg)
 
-    ![Alt text](assets/images/Readme/TPP-S.png)
-    
+### Survey Thank you
+- The Thank you 
+    - Once on the thank you page the user will be greeted with a thank you message and more info on the competition.
+![Thank you](assets/images/Readme/survey-thank%20you.jpg)
 
 
 ## Testing
 
-- ### desktop 
-- ### mobile 
+**TEST** | **ACTION** | **EXPECTATION** | **RESULT** 
+----------|----------|----------|----------
+Index  	| Size to 320px using Chrome Dev Tools	| Elements look good @ 320px | Works as expected
+Index	| Size to 1920px using Chrome Dev Tools | Elements look good 1920px | Works as expected
+Survey  	| Size to 320px using Chrome Dev Tools	| Elements look good @ 320px | Works as expected
+Survey	| Size to 1920px using Chrome Dev Tools | Elements look good 1920px | Works as expected
+Thank-you  	| Size to 320px using Chrome Dev Tools	| Elements look good @ 320px | Works as expected
+Thank-you	| Size to 1920px using Chrome Dev Tools | Elements look good 1920px | Works as expected
+Survey | Click send button without data in form fields | Cannot submit form | Works as expected
+Survey | Click send button with data in form fields | Page redirected to thank you page | Works as expected
+Nav bar - Index | Click nav buttons | That each nav element takes me to the correct page site page | Works as expected
+Nav bar - Survey | Click nav buttons | That each nav element takes me to the correct page site page | Works as expected
+Nav bar - Thank you | Click nav buttons | That each nav element takes me to the correct page site page | Works as expected
+ - Index | Click nav buttons | That each nav element takes me to the correct page site page | Works as expected
+ - Survey | Click nav buttons | That each nav element takes me to the correct page site page | Works as expected
+ - Thank you | Click nav buttons | That each nav element takes me to the correct page site page | Works as expected
+
 
 - ### browsers
     - #### edge
