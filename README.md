@@ -132,33 +132,36 @@ The below displays the layout of the header, Hero and Call to Action.
 
 **TEST** | **ACTION** | **EXPECTATION** | **RESULT** 
 ----------|----------|----------|----------
-Index  	| Size to 320px using Chrome Dev Tools	| Elements look good @ 320px | Works as expected
-Index	| Size to 1920px using Chrome Dev Tools | Elements look good 1920px | Works as expected
-Survey  	| Size to 320px using Chrome Dev Tools	| Elements look good @ 320px | Works as expected
-Survey	| Size to 1920px using Chrome Dev Tools | Elements look good 1920px | Works as expected
-Thank-you  	| Size to 320px using Chrome Dev Tools	| Elements look good @ 320px | Works as expected
-Thank-you	| Size to 1920px using Chrome Dev Tools | Elements look good 1920px | Works as expected
-Survey | Click send button without data in form fields | Cannot submit form | Works as expected
-Survey | Click send button with data in form fields | Page redirected to thank you page | Works as expected
-Nav bar - Index | Click nav buttons | That each nav element takes me to the correct page site page | Works as expected
-Nav bar - Survey | Click nav buttons | That each nav element takes me to the correct page site page | Works as expected
-Nav bar - Thank you | Click nav buttons | That each nav element takes me to the correct page site page | Works as expected
- - Index | Click nav buttons | That each nav element takes me to the correct page site page | Works as expected
- - Survey | Click nav buttons | That each nav element takes me to the correct page site page | Works as expected
- - Thank you | Click nav buttons | That each nav element takes me to the correct page site page | Works as expected
+Index  	            | Size to 320px using Edge , Chrome and Firefox Dev Tools	| Elements look good @ 320px    | Works as expected
+Index	            | Size to 1920px using Edge , Chrome and Firefox Dev Tools  | Elements look good 1920px     | Works as expected
+Survey              | Size to 320px using Edge , Chrome and Firefox Dev Tools	| Elements look good @ 320px    | Works as expected
+Survey	            | Size to 1920px using Edge , Chrome and Firefox Dev Tools  | Elements look good 1920px     | Works as expected
+Thank-you  	        | Size to 320px using Edge , Chrome and Firefox Dev Tools	| Elements look good @ 320px    | Works as expected
+Thank-you	        | Size to 1920px using Edge , Chrome and Firefox Dev Tools  | Elements look good 1920px     | Works as expected
+Index survey button | Click "We want your feedback button                       | Direct to Survey.html         | Works as expected
+Survey form         | Click send button without data in form fields             | Cannot submit form            | Works as expected
+Survey form         | Click send button with data in form fields                | Redirected to thank-you.html  | Works as expected
+Nav bar - Index     | Click nav buttons| That each nav element takes me to the correct page site page           | Works as expected
+Nav bar - Survey    | Click nav buttons| That each nav element takes me to the correct page site page           | Works as expected
+Nav bar - Thank you | Click nav buttons| That each nav element takes me to the correct page site page           | Works as expected
+Footer              | Click social media links | That each link opens a new page to the correct site            | Works as expected
 
 
-- ### browsers
-    - #### edge
-    - #### chrome
-    - #### firefox
+### Lighthouse results 
+![Lighthouse](assets/images/Readme/lighthouse.jpg)
 
+### w3c code Validator  
+- HTML
+    - index.html
+        - Document checking completed. No errors or warnings to show.
+    - survey.html
+        - Document checking completed. No errors or warnings to show.
+    - thank-you.html
+        - Document checking completed. No errors or warnings to show.
+- CSS
+    - style.css
 
-- ### Lighthouse results 
-
-- ### w3c code Validator  
-
-- ### bugs
+### bugs
 
 ## deployment
 

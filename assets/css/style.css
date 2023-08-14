@@ -6,7 +6,7 @@
   margin: 0;
   text-decoration: none;
   border-style: none;
-  box-sizing: bored-box;
+  box-sizing: border-box;
   font-family: Lato, sans-serif;
 }
 html {
@@ -432,7 +432,6 @@ html {
 
   .about-us-section img {
     max-width: 300px;
-    min-width: none;
   }
   .sub-menu {
     max-width: 400px;
