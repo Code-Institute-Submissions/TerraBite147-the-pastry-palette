@@ -177,17 +177,29 @@ Footer              | Click social media links | That each link opens a new page
 
 [Hero Image](https://www.freepik.com/premium-photo/horizontal-photo-homemade-chocolate-cookies-dark-table_2654616.htm)
 
-[Ciabata](https://pixabay.com/photos/ciabatta-bread-baked-baker-food-1589083/)
+[5 Stars](https://pixabay.com/illustrations/five-stars-stars-feedback-review-7292866/)
 
-[French Coarse](https://pixabay.com/photos/french-coarse-country-bread-bread-1613878/)
+[Wholemeal](https://pixabay.com/photos/ciabatta-bread-baked-baker-food-1589083/)
 
 [Sourdough](https://pixabay.com/photos/bread-baker-crafts-food-oven-eat-2667075/)
+
+[French Coarse](https://pixabay.com/photos/french-coarse-country-bread-bread-1613878/)
 
 [Macaroons](https://pixabay.com/photos/macaroons-macro-cookies-dessert-3311851/)
 
 [Pain Au Chocolat](https://pixabay.com/photos/chocolate-bread-breakfast-croissant-5087206/)
 
 [Cinnamon Rolls](https://pixabay.com/photos/cinnamon-rolls-bread-spiral-baking-1417494/)
+
+[Blue Berry Cheesecake](https://pixabay.com/photos/blue-berry-cheese-cake-blue-berry-4547988/)
+
+[Tiramisu](https://www.pexels.com/photo/close-up-shot-of-tiramisu-cake-14766327/)
+
+[Assorted Cupcakes](https://www.freepik.com/premium-photo/close-up-muffins-with-piece-chocolates_2518241.htm)
+
+[Bakery](https://pixabay.com/photos/bakery-breads-assorted-assortment-1868925/)
+
+[Spice](https://stock.adobe.com/images/Spice-up-your-winter-dessert-with-anise-generated-by-AI/606085312?as_campaign=TinEye&as_content=tineye_match&clickref=1101lxHTUiDt&mv=affiliate&mv2=pz&as_camptype=backlink&as_channel=affiliate&as_source=partnerize&as_campaign=tineye)
 
 
  ### Code
