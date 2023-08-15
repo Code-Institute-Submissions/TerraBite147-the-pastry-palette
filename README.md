@@ -29,6 +29,11 @@ Link to site : [The Pastry Palette](https://terrabite147.github.io/the-pastry-pa
         - [Edge](#edge)
         - [Chrome](#chrome)
         - [Firefox](#firefox)
+- [Credit](#credit)
+    -[Images](#images)
+    -[Code](#code)
+    -[Extensions](#extensions) 
+    -[Other](#other)
 
 #
 
@@ -39,7 +44,7 @@ This site is intended for:
 - New Customers
 - Existing Customers
 - Customers wanting to see what is available and where to find The Pastry Palette
-
+<!-- Add User stories -->
 ### Wireframes
 
  Desktop - Home :
@@ -64,6 +69,8 @@ The below displays the layout of the header, Hero and Call to Action.
 ![Mobile Menu](./assets/images/Readme/TPP-mobile-Menu.png)
 
 ### Design
+<!-- Needs more info -->
+
 - Font
     - Rock Salt was used for the title of The Pastry Palette.
     - git was used for the Header, footer and all text.
@@ -108,7 +115,8 @@ The below displays the layout of the header, Hero and Call to Action.
     ![About Us](assets/images/Readme/about-us.jpg)
 
     - The About us section is designed to form a single column at mobile resolutions.
-    ![Mobile About Us](assets/images/Readme/mobile-about-us.jpg)
+
+        ![Mobile About Us](assets/images/Readme/mobile-about-us.jpg)
 
 - ### Survey
     - The Survey section is designed to gather feed back and potential online ordering feasibility 
@@ -160,13 +168,13 @@ Footer              | Click social media links | That each link opens a new page
         - Document checking completed. No errors or warnings to show.
 - CSS
     - style.css
-    - No errors, 2 warning about imported style sheets not being checked, can be ignored as these are font imports.
+        - No errors, 2 warning about imported style sheets not being checked, can be ignored as these are font imports.
 
 ## deployment
 - GitHub pages was utilized for deployment 
   - Log in to GitHub and locate the GitHub Repository 
-  - At the top of the Repository (not top of page), locate the "Settings" Button on the menu. 
-  - On the left-hand side of the Settings page, under the code and automation section, click on "Pages".
+  - At the top of the Repository click on "Settings" Button on the menu. 
+  - click on "Pages".
   - Under "Source", click the dropdown called "None" and select your master branch. 
   - On the right hand side of the page, under "Environments", you will see a link to the deployed site.
 
@@ -202,13 +210,13 @@ Footer              | Click social media links | That each link opens a new page
 [Spice](https://stock.adobe.com/images/Spice-up-your-winter-dessert-with-anise-generated-by-AI/606085312?as_campaign=TinEye&as_content=tineye_match&clickref=1101lxHTUiDt&mv=affiliate&mv2=pz&as_camptype=backlink&as_channel=affiliate&as_source=partnerize&as_campaign=tineye)
 
 
- ### Code
+### Code
 
 - [Flex](https://youtu.be/phWxA89Dy94) - This tutorial help me understand flex which was utilized through the project.
 - [Responsive Lay-out](https://www.youtube.com/watch?v=S0a7PEOi0do) - This tutorial assisted with responsive lay-out.
 - [Markdown Guide](https://www.markdownguide.org/cheat-sheet/) - Assisted with markdown styling.
 
-### CHROME EXTENSIONS :
+### Extensions :
 - [WAVE](https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh) : website evaluation tool used for testing.
 - [Unicorn Revealer](https://chrome.google.com/webstore/detail/unicorn-revealer/lmlkphhdlngaicolpmaakfmhplagoaln) : Assisted with finding overflow issues.
 
