@@ -160,29 +160,47 @@ Footer              | Click social media links | That each link opens a new page
         - Document checking completed. No errors or warnings to show.
 - CSS
     - style.css
-
-### bugs
+    - No errors, 2 warning about imported style sheets not being checked, can be ignored as these are font imports.
 
 ## deployment
+- GitHub pages was utilized for deployment 
+  - Log in to GitHub and locate the GitHub Repository 
+  - At the top of the Repository (not top of page), locate the "Settings" Button on the menu. 
+  - On the left-hand side of the Settings page, under the code and automation section, click on "Pages".
+  - Under "Source", click the dropdown called "None" and select your master branch. 
+  - On the right hand side of the page, under "Environments", you will see a link to the deployed site.
 
 ## Credit
 
 ### Images
 
 
-https://www.freepik.com/premium-photo/horizontal-photo-homemade-chocolate-cookies-dark-table_2654616.htm Hero Image
+[Hero Image](https://www.freepik.com/premium-photo/horizontal-photo-homemade-chocolate-cookies-dark-table_2654616.htm)
 
- https://pixabay.com/photos/ciabatta-bread-baked-baker-food-1589083/ Ciabata
+[Ciabata](https://pixabay.com/photos/ciabatta-bread-baked-baker-food-1589083/)
 
- https://pixabay.com/photos/french-coarse-country-bread-bread-1613878/ French Coarse
+[French Coarse](https://pixabay.com/photos/french-coarse-country-bread-bread-1613878/)
 
- https://pixabay.com/photos/bread-baker-crafts-food-oven-eat-2667075/ Sourdough
+[Sourdough](https://pixabay.com/photos/bread-baker-crafts-food-oven-eat-2667075/)
 
- https://pixabay.com/photos/macaroons-macro-cookies-dessert-3311851/ Macaroons
+[Macaroons](https://pixabay.com/photos/macaroons-macro-cookies-dessert-3311851/)
 
- https://pixabay.com/photos/chocolate-bread-breakfast-croissant-5087206/ Pain Au Chocolat
+[Pain Au Chocolat](https://pixabay.com/photos/chocolate-bread-breakfast-croissant-5087206/)
 
- https://pixabay.com/photos/cinnamon-rolls-bread-spiral-baking-1417494/ Cinnamon Rolls
+[Cinnamon Rolls](https://pixabay.com/photos/cinnamon-rolls-bread-spiral-baking-1417494/)
+
 
  ### Code
- 
+
+- [Flex](https://youtu.be/phWxA89Dy94) - This tutorial help me understand flex which was utilized through the project.
+- [Responsive Lay-out](https://www.youtube.com/watch?v=S0a7PEOi0do) - This tutorial assisted with responsive lay-out.
+- [Markdown Guide](https://www.markdownguide.org/cheat-sheet/) - Assisted with markdown styling.
+
+### CHROME EXTENSIONS :
+- [WAVE](https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh) : website evaluation tool used for testing.
+- [Unicorn Revealer](https://chrome.google.com/webstore/detail/unicorn-revealer/lmlkphhdlngaicolpmaakfmhplagoaln) : Assisted with finding overflow issues.
+
+### Other
+- [Figma](https://www.figma.com/) - Utilized for wire frames.
+- [Gimp](https://gimp.com) - used for editing images.
+- [VS CODE](https://code.visualstudio.com/) - Used for creating and editing code.
