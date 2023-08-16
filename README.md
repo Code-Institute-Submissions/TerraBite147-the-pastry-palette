@@ -30,10 +30,10 @@ Link to site : [The Pastry Palette](https://terrabite147.github.io/the-pastry-pa
         - [Chrome](#chrome)
         - [Firefox](#firefox)
 - [Credit](#credit)
-    -[Images](#images)
-    -[Code](#code)
-    -[Extensions](#extensions) 
-    -[Other](#other)
+    - [Images](#images)
+    - [Code](#code)
+    - [Extensions](#extensions) 
+    - [Other](#other)
 
 #
 
