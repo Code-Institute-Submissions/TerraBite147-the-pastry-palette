@@ -46,8 +46,12 @@ This site is intended for:
 - Customers wanting to see what is available and where to find The Pastry Palette
 
 ### User Stories
+User Story 1:
+As a new customer of The Pastry Palette, I want to explore the menu and learn about the variety of pastries available, so that I can decide what I'd like to order and where I can order from.
+This can be done by looking through the menu section 
 
-
+User Story 2:
+As an existing customer of The Pastry Palette, I want to provide feedback and participate in the survey, so that I can contribute to the bakery's improvement and possibly win a prize.
 
 ### Wireframes
 
