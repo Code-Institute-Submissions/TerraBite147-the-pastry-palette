@@ -45,8 +45,6 @@ html {
   font-size: 25px;
 }
 
-
-
 /* Header */
 .header {
   background: #362d29;
@@ -370,7 +368,6 @@ html {
   text-align: center;
   padding-bottom: 15px;
 }
-
 
 /* Media Queries */
 @media all and (max-width: 1100px) {

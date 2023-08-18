@@ -166,7 +166,12 @@ Footer              | Click social media links | That each link opens a new page
 
 
 ### Lighthouse results 
+index.hmtl
 ![Lighthouse](assets/images/Readme/lighthouse.jpg)
+survey.html
+![Lighthouse Survey](assets/images/Readme/lighthouse-survey.jpg)
+thank-you.html
+![Thank you](assets/images/Readme/lighthouse-thank-you.jpg)
 
 ### w3c code Validator  
 - HTML
