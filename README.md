@@ -44,7 +44,11 @@ This site is intended for:
 - New Customers
 - Existing Customers
 - Customers wanting to see what is available and where to find The Pastry Palette
-<!-- Add User stories -->
+
+### User Stories
+
+
+
 ### Wireframes
 
  Desktop - Home :
