@@ -166,11 +166,16 @@ Footer              | Click social media links | That each link opens a new page
 
 
 ### Lighthouse results 
-index.hmtl
+index.html
+
 ![Lighthouse](assets/images/Readme/lighthouse.jpg)
+
 survey.html
+
 ![Lighthouse Survey](assets/images/Readme/lighthouse-survey.jpg)
+
 thank-you.html
+
 ![Thank you](assets/images/Readme/lighthouse-thank-you.jpg)
 
 ### w3c code Validator  
@@ -187,11 +192,14 @@ thank-you.html
 
 ## deployment
 - GitHub pages was utilized for deployment 
-  - Log in to GitHub and locate the GitHub Repository 
-  - At the top of the Repository click on "Settings" Button on the menu. 
-  - click on "Pages".
-  - Under "Source", click the dropdown called "None" and select your master branch. 
-  - On the right hand side of the page, under "Environments", you will see a link to the deployed site.
+    - Created new repo using [C.I template](https://github.com/Code-Institute-Org/ci-full-template)
+    - Cloned the repo using vs code
+    - Utilized git to add, commit and push changes back to github.
+    - Log in to GitHub and locate the GitHub Repository 
+    - At the top of the Repository click on "Settings" Button on the menu. 
+    - click on "Pages".
+    - Under "Source", click the dropdown called "None" and select your master branch. 
+    - On the right hand side of the page, under "Environments", you will see a link to the deployed site.
 
 ## Credit
 

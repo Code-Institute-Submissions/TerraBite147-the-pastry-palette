@@ -370,29 +370,25 @@ html {
 }
 
 /* Media Queries */
+
 @media all and (max-width: 1100px) {
-  .menu-wrapper {
-    flex-direction: column;
-    align-items: center;
-  }
+
+  /* Adjust links font size */
   .links a {
     font-size: 23px;
   }
 
+  /* Change menu section to a column */
+  .menu-wrapper {
+    flex-direction: column;
+    align-items: center;
+  }
   .sub-menu {
     max-width: 800px;
   }
 
   .inner-container {
     flex-direction: row;
-  }
-
-  .box {
-    width: 250px;
-    height: 100px;
-    text-align: center;
-    left: 50%;
-    transform: translate(-50%);
   }
 
   .flex h2 {
@@ -408,25 +404,25 @@ html {
 }
 
 @media all and (max-width: 770px) {
+  /*Adjust Head links size */
   .links-header a {
-    font-weight: 400;
     font-size: 20px;
-    color: #dadada;
   }
+
+/* Adjust Title and award position and size  */
   #title {
     top: 60px;
   }
   #title h1 {
     font-size: 40px;
   }
-
   #title h2 {
     font-size: 20px;
   }
   #award {
     font-size: 90%;
   }
-
+/* Adjust about us section width to fit 770px */
   .about-us-section img {
     max-width: 300px;
   }
@@ -444,7 +440,6 @@ html {
 
   .about-us-section {
     flex-direction: column;
-    align-items: center;
     margin: 0;
     gap: 5px;
     margin-bottom: 5px;
