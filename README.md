@@ -77,7 +77,6 @@ The below displays the layout of the header, Hero and Call to Action.
 ![Mobile Menu](./assets/images/Readme/TPP-mobile-Menu.png)
 
 ### Design
-<!-- Needs more info -->
 
 - Font
     - Rock Salt was used for the title of The Pastry Palette.
@@ -97,10 +96,13 @@ The below displays the layout of the header, Hero and Call to Action.
 #
 ## Features
 - ### nav
+![Header](assets/images/Readme/header.jpg)
     - The header consists of a fix nav bar intended to stay at top of the screen during navigation. A logo or title was not necessary as the title is visible of the Hero section.
     - The nav font size will scale down with the screen size to make it clear and responsive at all sizes.
     - The links will change from ![#DADADA](https://placehold.it/150x40/DADADA/000000?text=DADADA) to ![#FAEBD7](https://placehold.it/150x40/ffffff/000000?text=FFFFFF) when hovered over to indicate a clickable link.
-![Nav](assets/images/Readme/header.jpg)
+![Footer](assets/images/Readme/footer.jpg)
+    - The footer consist of links to The Pastry Palette social media and a disclaimer.
+
 - ### Home
     - The home section consists of the Hero image, a call to action to click on the survey link and an award given to the bakery.
     - This section aims to be inviting and show the quality and style of The Pastry Palette.
