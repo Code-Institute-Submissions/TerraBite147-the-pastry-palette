@@ -7,7 +7,7 @@ This virtual space has been carefully crafted with both new and cherished custom
 
 Link to site : [The Pastry Palette](https://terrabite147.github.io/the-pastry-palette/)
 
-![Am I Responsive](./assets/images/Readme/am-i-responsive.webp)
+![Am I Responsive](./assets/images/Readme/amiresponsive.png)
 
 ## Contents
 
