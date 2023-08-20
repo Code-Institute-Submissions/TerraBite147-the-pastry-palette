@@ -7,7 +7,7 @@ This virtual space has been carefully crafted with both new and cherished custom
 
 Link to site : [The Pastry Palette](https://terrabite147.github.io/the-pastry-palette/)
 
-![Am I Responsive](./assets/images/Readme/amiresponsive.png)
+![Am I Responsive](./media/amiresponsive.png)
 
 ## Contents
 
@@ -56,24 +56,24 @@ As an existing customer of The Pastry Palette, I want to provide feedback and pa
  Desktop - Home :
  The below displays the layout of the Header, Hero Section, Call to action and Menu Section.
 
-![Desktop Home](./assets/images/Readme/tpp.png)
+![Desktop Home](./media/tpp.png)
 
 
 Desktop - Information Section :
 The below displays the layout of the About us, Contact Section and Footer.
 
-![Desktop Menu](./assets/images/Readme/ttp-2.png)
+![Desktop Menu](./media/ttp-2.png)
 Desktop - Survey : The below displays the layout of the Survey page.
 
-![Desktop Menu](./assets/images/Readme/ttp-s.png)
+![Desktop Menu](./media/ttp-s.png)
 
 Mobile - Home :
 The below displays the layout of the header, Hero and Call to Action scaled to 320px.
-![Mobile Home](./assets/images/Readme/ttp-mobile-home.png)
+![Mobile Home](./media/ttp-mobile-home.png)
 
 Mobile - Menu :
 The below displays the layout of the header, Hero and Call to Action.
-![Mobile Menu](./assets/images/Readme/ttp-mobile-menu.png)
+![Mobile Menu](./media/ttp-mobile-menu.png)
 
 ### Design
 
