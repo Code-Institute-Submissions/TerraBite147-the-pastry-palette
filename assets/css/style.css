@@ -120,7 +120,7 @@ html {
   width: 200px;
   transform: translate(-165%);
 }
-
+/* Link to Survey */
 .survey-link {
   position: absolute;
   top: 490px;
@@ -233,7 +233,7 @@ html {
   max-width: 300px;
   height: 300px;
 }
-
+/* Google Map import */
 .google-map {
   border: 5px solid #362d29;
   border-radius: 5px;
@@ -330,7 +330,7 @@ html {
   margin-left: auto;
   margin-right: auto;
 }
-
+/* Into to survey */
 #intro h1 {
   text-align: center;
   padding-bottom: 15px;
@@ -433,7 +433,7 @@ html {
   .width400 p {
     width: 300px;
   }
-
+/* Adjust menu inner container direction */
   .inner-container {
     flex-direction: column;
   }
@@ -453,6 +453,7 @@ html {
 }
 
 @media all and (max-width: 480px) {
+  /* Resize title on index and survey to fit smaller devices*/
   #title h1,
   #title-survey h1 {
     font-size: 30px;
@@ -461,6 +462,7 @@ html {
   #title-survey h2 {
     font-size: 18px;
   }
+  /* resize index elements for smaller devices */
   #bg-image {
     height: 480px;
   }
@@ -481,6 +483,7 @@ html {
   #award h3 {
     font-size: 13px;
   }
+  /* Resize thank-you title for smaller devices */
   #thanks h1{
     font-size: 25px;
   }
