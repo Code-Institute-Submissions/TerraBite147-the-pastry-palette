@@ -95,39 +95,39 @@ The below displays the layout of the header, Hero and Call to Action.
 #
 ## Features
 - ### nav
-![Header](assets/images/Readme/header.jpg)
+![Header](./media/header.jpg)
 - The header consists of a fix nav bar intended to stay at top of the screen during navigation. A logo or title was not necessary as the title is visible on the landing page.
   - The nav font size will scale down with the screen size to make it clear and responsive at all sizes.
   
   - The links will change from #DADADA to #FAEBD7 when hovered over to indicate a clickable link.
 
-![Footer](assets/images/Readme/footer.jpg)
+![Footer](./media/footer.jpg)
 - The footer consist of links to The Pastry Palette social media and a disclaimer.
 
 - ### Home
     - The home section consists of the Hero image, a call to action to click on the survey link and an award given to the bakery.
     - This section aims to be inviting and show the quality and style of The Pastry Palette.
-    ![Home](assets/images/Readme/home-section.jpg)
+    ![Home](./media/home-section.jpg)
 - ### Menu 
     - The menu section is presented to the user to show what type of products The Pastry Palette offers.
     - The menu section consists of 3 columns each with their own category of product.
     - Each product has a title and a short description to better showcase the product.
-    ![Menu](assets/images/Readme/menu.jpg)
+    ![Menu](./media/menu.jpg)
 
     - At medium resolutions the menu section will form a column  and the content will form a row.
-    ![Menu Med](assets/images/Readme/medium-res.jpg)
+    ![Menu Med](./media/medium-res.jpg)
 
     - At mobile resolutions the menu section will form a column and the content will be in a column.
-    ![Mobile Menu](assets/images/Readme/mobile-res.jpg)
+    ![Mobile Menu](./media/mobile-res.jpg)
 - ### about us 
     - The about us section is designed to show customers the people behind The Pastry Palette, a brief history of the bakery and the location(s).
 
     -  The google map has been added to assist with directions and the hours and contact info is shown for enquires.
-    ![About Us](assets/images/Readme/about-us.jpg)
+    ![About Us](./media/about-us.jpg)
 
     - The About us section is designed to form a single column at mobile resolutions.
 
-        ![Mobile About Us](assets/images/Readme/mobile-about-us.jpg)
+        ![Mobile About Us](./media/mobile-about-us.jpg)
 
 - ### Survey
     - The Survey section is designed to gather feed back and potential online ordering feasibility 
@@ -139,12 +139,12 @@ The below displays the layout of the header, Hero and Call to Action.
             - A radio section containing 4 options (required)
             - A Feedback text field if the users would like to leave feedback (not required)
         - A submit button that will direct the user to the thank-you page.
-        ![Survey](assets/images/Readme/survey.jpg)
+        ![Survey](./media/survey.jpg)
 
 ### Survey Thank you
 - The Thank you 
     - Once on the thank you page the user will be greeted with a thank you message and more info on the competition.
-![Thank you](assets/images/Readme/survey-thank%20you.jpg)
+![Thank you](./media/survey-thank%20you.jpg)
 
 
 ## Testing
@@ -169,15 +169,15 @@ Footer              | Click social media links | That each link opens a new page
 ### Lighthouse results 
 index.html
 
-![Lighthouse](assets/images/Readme/lighthouse.jpg)
+![Lighthouse](./media/lighthouse.jpg)
 
 survey.html
 
-![Lighthouse Survey](assets/images/Readme/lighthouse-survey.jpg)
+![Lighthouse Survey](./media/lighthouse-survey.jpg)
 
 thank-you.html
 
-![Thank you](assets/images/Readme/lighthouse-thank-you.jpg)
+![Thank you](./media/lighthouse-thank-you.jpg)
 
 ### w3c code Validator  
 - HTML
