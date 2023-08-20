@@ -58,6 +58,7 @@ As an existing customer of The Pastry Palette, I want to provide feedback and pa
 
 ![Desktop Home](./assets/images/Readme/tpp.png)
 
+
 Desktop - Information Section :
 The below displays the layout of the About us, Contact Section and Footer.
 
