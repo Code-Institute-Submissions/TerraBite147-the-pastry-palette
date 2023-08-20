@@ -11,28 +11,26 @@ Link to site : [The Pastry Palette](https://terrabite147.github.io/the-pastry-pa
 
 ## Contents
 
-- [Introduction](#introduction)
-- [User Experience](#user-experience)
+- [The Pastry Palette](#the-pastry-palette)
+  - [Introduction](#introduction)
+  - [Contents](#contents)
+- [](#)
+  - [User Experience](#user-experience)
     - [Intended Users](#intended-users)
+    - [User Stories](#user-stories)
     - [Wireframes](#wireframes)
-- [Design](#design)
-- [Features](#features)
-    - [Nav](#nav)
-    - [Home](#home)
-    - [Menu](#menu)
-    - [About Us](#about-us)
-    - [Survey](#survey)
-- [Testing](#testing)
-    - [Desktop](#desktop)
-    - [Mobile](#mobile)
-    - [Browsers](#browsers)
-        - [Edge](#edge)
-        - [Chrome](#chrome)
-        - [Firefox](#firefox)
-- [Credit](#credit)
+    - [Design](#design)
+- [](#-1)
+  - [Features](#features)
+    - [Survey Thank you](#survey-thank-you)
+  - [Testing](#testing)
+    - [Lighthouse results](#lighthouse-results)
+    - [w3c code Validator](#w3c-code-validator)
+  - [deployment](#deployment)
+  - [Credit](#credit)
     - [Images](#images)
     - [Code](#code)
-    - [Extensions](#extensions) 
+    - [Extensions :](#extensions-)
     - [Other](#other)
 
 #
@@ -48,7 +46,7 @@ This site is intended for:
 ### User Stories
 User Story 1:
 As a new customer of The Pastry Palette, I want to explore the menu and learn about the variety of pastries available, so that I can decide what I'd like to order and where I can order from.
-This can be done by looking through the menu section 
+This can be done by looking through the menu section for what is on offer and the about us section to find the bakery.
 
 User Story 2:
 As an existing customer of The Pastry Palette, I want to provide feedback and participate in the survey, so that I can contribute to the bakery's improvement and possibly win a prize.
@@ -79,9 +77,9 @@ The below displays the layout of the header, Hero and Call to Action.
 ### Design
 
 - Font
-    - Rock Salt was used for the title of The Pastry Palette.
-    - git was used for the Header, footer and all text.
-    - sans-serif was used as the secondary font for all text.
+    - Rock Salt is used for the title of The Pastry Palette.
+    - Lato is used for the Header, footer and all text.
+    - sans-serif is used as the secondary font for all text.
 
 - Color scheme
 
@@ -97,11 +95,13 @@ The below displays the layout of the header, Hero and Call to Action.
 ## Features
 - ### nav
 ![Header](assets/images/Readme/header.jpg)
-    - The header consists of a fix nav bar intended to stay at top of the screen during navigation. A logo or title was not necessary as the title is visible of the Hero section.
-    - The nav font size will scale down with the screen size to make it clear and responsive at all sizes.
-    - The links will change from ![#DADADA](https://placehold.it/150x40/DADADA/000000?text=DADADA) to ![#FAEBD7](https://placehold.it/150x40/ffffff/000000?text=FFFFFF) when hovered over to indicate a clickable link.
+- The header consists of a fix nav bar intended to stay at top of the screen during navigation. A logo or title was not necessary as the title is visible on the landing page.
+  - The nav font size will scale down with the screen size to make it clear and responsive at all sizes.
+  
+  - The links will change from #DADADA to #FAEBD7 when hovered over to indicate a clickable link.
+
 ![Footer](assets/images/Readme/footer.jpg)
-    - The footer consist of links to The Pastry Palette social media and a disclaimer.
+- The footer consist of links to The Pastry Palette social media and a disclaimer.
 
 - ### Home
     - The home section consists of the Hero image, a call to action to click on the survey link and an award given to the bakery.
@@ -247,3 +247,4 @@ thank-you.html
 - [Figma](https://www.figma.com/) - Utilized for wire frames.
 - [Gimp](https://gimp.com) - used for editing images.
 - [VS CODE](https://code.visualstudio.com/) - Used for creating and editing code.
+- [ChatGPT](https://chat.openai.com/) - Used for generating some of the text for descriptions.
