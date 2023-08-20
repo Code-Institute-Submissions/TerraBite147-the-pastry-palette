@@ -56,23 +56,23 @@ As an existing customer of The Pastry Palette, I want to provide feedback and pa
  Desktop - Home :
  The below displays the layout of the Header, Hero Section, Call to action and Menu Section.
 
-![Desktop Home](./assets/images/Readme/TPP-1.png)
+![Desktop Home](./assets/images/Readme/tpp-1.png)
 
 Desktop - Information Section :
 The below displays the layout of the About us, Contact Section and Footer.
 
-![Desktop Menu](./assets/images/Readme/TPP-2.png)
+![Desktop Menu](./assets/images/Readme/ttp-2.png)
 Desktop - Survey : The below displays the layout of the Survey page.
 
-![Desktop Menu](./assets/images/Readme/TPP-S.png)
+![Desktop Menu](./assets/images/Readme/ttp-S.png)
 
 Mobile - Home :
 The below displays the layout of the header, Hero and Call to Action scaled to 320px.
-![Mobile Home](./assets/images/Readme/TPP-mobile-home.png)
+![Mobile Home](./assets/images/Readme/ttp-mobile-home.png)
 
 Mobile - Menu :
 The below displays the layout of the header, Hero and Call to Action.
-![Mobile Menu](./assets/images/Readme/TPP-mobile-Menu.png)
+![Mobile Menu](./assets/images/Readme/ttp-mobile-menu.png)
 
 ### Design
 
