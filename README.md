@@ -56,7 +56,7 @@ As an existing customer of The Pastry Palette, I want to provide feedback and pa
  Desktop - Home :
  The below displays the layout of the Header, Hero Section, Call to action and Menu Section.
 
-![Desktop Home](./assets/images/Readme/tpp-1.png)
+![Desktop Home](./assets/images/Readme/tpp.png)
 
 Desktop - Information Section :
 The below displays the layout of the About us, Contact Section and Footer.
@@ -106,7 +106,7 @@ The below displays the layout of the header, Hero and Call to Action.
 - ### Home
     - The home section consists of the Hero image, a call to action to click on the survey link and an award given to the bakery.
     - This section aims to be inviting and show the quality and style of The Pastry Palette.
-    ![Home](assets/images/Readme/home.jpg)
+    ![Home](assets/images/Readme/home-section.jpg)
 - ### Menu 
     - The menu section is presented to the user to show what type of products The Pastry Palette offers.
     - The menu section consists of 3 columns each with their own category of product.
