@@ -64,7 +64,7 @@ The below displays the layout of the About us, Contact Section and Footer.
 ![Desktop Menu](./assets/images/Readme/ttp-2.png)
 Desktop - Survey : The below displays the layout of the Survey page.
 
-![Desktop Menu](./assets/images/Readme/ttp-S.png)
+![Desktop Menu](./assets/images/Readme/ttp-s.png)
 
 Mobile - Home :
 The below displays the layout of the header, Hero and Call to Action scaled to 320px.
